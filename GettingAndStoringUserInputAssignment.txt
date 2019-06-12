@@ -26,6 +26,6 @@ public class RetrievingStoringUserInput {
     System.out.print(firstInitial + " " + lastName + " " + houseNumber + " ");
     System.out.println(streetName + " " + streetType + " " + city);
 
-    System.out.println("Bye.")
+    System.out.println("Bye.");
     }
 }
